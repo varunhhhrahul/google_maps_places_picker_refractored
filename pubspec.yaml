@@ -1,7 +1,7 @@
 name: google_maps_places_picker_refractored
 description: A refractored version of the Google Maps Places Picker plugin for Flutter.
-version: 0.0.1
-homepage: https://pub.dev/packages/google_maps_places_picker_refractored
+version: 0.0.2
+homepage: https://github.com/varunhhhrahul/google_maps_places_picker_refractored
 
 environment:
   sdk: ">=2.14.0 <3.0.0"
